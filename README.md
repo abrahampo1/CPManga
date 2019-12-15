@@ -1,4 +1,6 @@
 # CPManga
+![CPManga](https://i.imgur.com/5t6pyC7.png)
+
 CPManga es un programa hibrido para leer JoJo's Bizarre Adventures adaptandose a la comodidad y sencillez de un simple programa sin anuncios y con servidores propios.
 
 ¿Que quiere decir que sea hibrido?
